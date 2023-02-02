@@ -1,4 +1,4 @@
-# Readme
+# README
 
 Published code from: Göteson et al, Transl Psych (2022)
 
